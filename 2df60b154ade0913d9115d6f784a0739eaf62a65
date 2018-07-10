@@ -1,0 +1,1 @@
+{"jobID":"c523db88-8ef9-c9d5-68e1-f4d2a19bb1fa","spec":{"type":"policy","cause":{"Message":"","User":"Geoff Lamrock \u003cgeoff.lamrock@blueshift.one\u003e"},"spec":{"flux-example:deployment/helloworld":{"add":{},"remove":{"automated":"true"}}}},"result":null}

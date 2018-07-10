@@ -10,7 +10,7 @@ metadata:
     flux.weave.works/tag.sidecar: glob:master-*
 spec:
   minReadySeconds: 5
-  replicas: 2
+  replicas: 3
   template:
     metadata:
       labels:

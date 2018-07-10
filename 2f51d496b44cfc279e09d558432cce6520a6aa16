@@ -1,0 +1,1 @@
+{"jobID":"c9104642-09d2-9e90-4ab4-d28ba0833191","spec":{"type":"policy","cause":{"Message":"","User":"Geoff Lamrock \u003cgeoff.lamrock@blueshift.one\u003e"},"spec":{"flux-example:deployment/helloworld":{"add":{"tag.helloworld":"glob:master-a*"},"remove":{}}}},"result":null}

@@ -10,6 +10,7 @@ metadata:
     flux.weave.works/tag.sidecar: glob:master-*
     flux.weave.works/locked: 'true'
     flux.weave.works/locked_user: Geoff Lamrock <geoff.lamrock@blueshift.one>
+    flux.weave.works/locked_msg: Lock lock lock
 spec:
   minReadySeconds: 5
   replicas: 3

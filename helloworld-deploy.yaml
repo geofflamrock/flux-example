@@ -17,13 +17,13 @@ spec:
     spec:
       containers:
       - name: helloworld
-        image: quay.io/weaveworks/helloworld:master-a000004
+        image: quay.io/weaveworks/helloworld:master-a000001
         args:
         - -msg=Booyah
         ports:
         - containerPort: 80
       - name: sidecar
-        image: quay.io/weaveworks/sidecar:master-a000002
+        image: quay.io/weaveworks/sidecar:master-a000001
         args:
         - -addr=:8080
         ports:

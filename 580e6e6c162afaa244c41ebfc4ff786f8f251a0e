@@ -1,0 +1,1 @@
+{"jobID":"40469ac8-78ce-de2e-e1a6-0e9f022920be","spec":{"type":"policy","cause":{"Message":"","User":"Geoff Lamrock \u003cgeoff.lamrock@blueshift.one\u003e"},"spec":{"flux-example:deployment/helloworld":{"add":{"locked":"true","locked_msg":"","locked_user":"Geoff Lamrock \u003cgeoff.lamrock@blueshift.one\u003e"},"remove":{}}}},"result":null}

@@ -6,6 +6,8 @@ metadata:
   namespace: flux-example
   annotations:
     flux.weave.works/automated: 'true'
+    flux.weave.works/tag.helloworld: glob:master-a*
+    flux.weave.works/tag.sidecar: glob:master-a*
 spec:
   minReadySeconds: 5
   replicas: 2

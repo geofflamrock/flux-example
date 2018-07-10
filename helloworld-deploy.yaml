@@ -4,9 +4,6 @@ kind: Deployment
 metadata:
   name: helloworld
   namespace: flux-example
-  annotations:
-    flux.weave.works/locked_user: Geoff Lamrock <geoff.lamrock@blueshift.one>
-    flux.weave.works/locked: 'true'
 spec:
   minReadySeconds: 5
   replicas: 2

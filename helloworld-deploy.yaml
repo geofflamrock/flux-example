@@ -8,6 +8,8 @@ metadata:
     flux.weave.works/automated: 'true'
     flux.weave.works/tag.helloworld: glob:master-a*
     flux.weave.works/tag.sidecar: glob:master-*
+    flux.weave.works/locked: 'true'
+    flux.weave.works/locked_user: Geoff Lamrock <geoff.lamrock@blueshift.one>
 spec:
   minReadySeconds: 5
   replicas: 3
